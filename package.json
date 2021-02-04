@@ -1,0 +1,13 @@
+{
+    "name": "IosDynamicLink",
+    "version": "0.0.1",
+    "description": "Your Plugin Description",
+    "cordova": {
+      "id": "cordova-plugin-ios-dynamic-link",
+      "platforms": [ 
+        "ios" 
+      ]
+    },
+    "author": "jmarquez", 
+    "license": "MIT"
+  }
